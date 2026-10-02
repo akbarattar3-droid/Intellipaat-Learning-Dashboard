@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intellipaat Learning Dashboard</string>
+    <string name="login_demo_hint">Demo: user@intellipaat.com / password123</string>
+</resources>
